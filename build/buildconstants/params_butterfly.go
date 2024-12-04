@@ -59,7 +59,7 @@ const UpgradeWaffleHeight = -27
 const UpgradeTuktukHeight = -28
 
 // ??????
-const UpgradeXxHeight = 999999999999999
+const UpgradeXxHeight = 300
 
 // FIP-0081: for the power actor state for pledge calculations.
 // UpgradeTuktukPowerRampDurationEpochs ends up in the power actor state after
